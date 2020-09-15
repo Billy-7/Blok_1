@@ -1,0 +1,27 @@
+h1 {
+    color: powderblue;
+}
+
+body {
+    background-color: goldenrod;
+} 
+
+img {
+    border: 2px solid black;
+    margin: 20px;
+}
+
+div.vloot1{
+    float:left;
+}
+
+
+div.vloot2{
+    float:right;
+}
+
+div.vloot3{
+    float:left;
+} 
+
+
